@@ -10,13 +10,19 @@
     🚀  Curso em andamento, aulas disponível no YouTube toda segunda-feira. 🚀
 </h4>
 
-# Meu Canal do YouTube;
+# Meu Canal no YouTube;
 
 Para mais conteúdos educativos sobre desenvolvimento de software, verifique o meu canal do YouTube:
 
 [Meu Canal do YouTube](https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg)
 
+# Design do Projeto;
+Os designs do projeto podem ser encontrados no Figma.
 
+Acesse os designs através do seguinte link:
+[Projeto Figma](https://www.figma.com/file/IewLzvbMgjabRz3WiWg1YH/Food-Delivery-Mobile-Application?type=design&node-id=0%3A1&t=LgkXEo4OghaSC6ZF-1)
+
+# Descrição sobre o Projeto;
 Seja bem-vindo(a) ao nosso curso completo sobre como desenvolver um aplicativo de delivery usando React Native, TypeScript e React Navigation!
 
 Neste curso prático, vamos te guiar passo a passo através do processo de construção de um aplicativo de delivery do zero, utilizando algumas das tecnologias mais requisitadas do mercado: React Native, TypeScript e React Navigation, além de várias outras ferramentas.
@@ -48,15 +54,9 @@ Pronto para começar sua jornada de desenvolvimento móvel e criar um incrível 
 
 Lembre-se de se inscrever em nosso canal e ativar as notificações para não perder nenhuma aula. Vamos lá!
 
-# Design do Projeto;
-Os designs do projeto podem ser encontrados no Figma.
+# Tarefas do curso;
 
-Acesse os designs através do seguinte link:
-[Projeto Figma](https://www.figma.com/file/IewLzvbMgjabRz3WiWg1YH/Food-Delivery-Mobile-Application?type=design&node-id=0%3A1&t=LgkXEo4OghaSC6ZF-1)
-
-# Features;
-
-    * Tela não necessita de autenticação: AuthRoutes
+* Tela necessita de autenticação: AuthRoutes
 - [ ] Tela de OnboardingOne;
 - [ ] Tela de OnboardingTwo;
 - [ ] Tela de OnboardingThree;
@@ -65,7 +65,7 @@ Acesse os designs através do seguinte link:
 - [ ] Tela de ForgotPassword;
 - [ ] Tela de VerificationCode;
 
-    * Tela necessita de autenticação: AppRoutes
+* Tela necessita de autenticação: AppRoutes
 - [ ] Tela OrderDetails;
 - [ ] Tela de ProductDetails;
 - [ ] Tela de Restaurant;
@@ -73,7 +73,7 @@ Acesse os designs através do seguinte link:
 - [ ] Tela de Transactions;
 - [ ] Tela de CreateCard;
 
-    * Tela necessita de autenticação: TabRoutes
+* Tela necessita de autenticação: TabRoutes
 - [ ] Tela de Home;
 - [ ] Tela de Wallet;
 - [ ] Tela de Carrinho;
