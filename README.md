@@ -10,7 +10,7 @@
     🚀  Curso em andamento, aulas disponível no YouTube toda segunda-feira. 🚀
 </h4>
 
-# Meu Canal do YouTube
+# Meu Canal do YouTube;
 
 Para mais conteúdos educativos sobre desenvolvimento de software, verifique o meu canal do YouTube:
 
@@ -48,14 +48,14 @@ Pronto para começar sua jornada de desenvolvimento móvel e criar um incrível 
 
 Lembre-se de se inscrever em nosso canal e ativar as notificações para não perder nenhuma aula. Vamos lá!
 
-# Design do Projeto
-
+# Design do Projeto;
 Os designs do projeto podem ser encontrados no Figma.
 
 Acesse os designs através do seguinte link:
 [Projeto Figma](https://www.figma.com/file/IewLzvbMgjabRz3WiWg1YH/Food-Delivery-Mobile-Application?type=design&node-id=0%3A1&t=LgkXEo4OghaSC6ZF-1)
 
-# Features
+# Features;
+
     Tela não necessita de autenticação: AuthRoutes
 - [ ] Tela de OnboardingOne;
 - [ ] Tela de OnboardingTwo;
@@ -100,11 +100,11 @@ $ expo start # Caso tenha o expo instalado globalmente em sua máquina
 ou
 npx expo start # Caso não tenha o expo instalado em sua máquina
 ```
-# Licença
+# Licença;
 
 Este projeto está sob a licença MIT. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/mydelivey/blob/master/LICENSE) para maiores informações.
 
-# Desenvolvedor
+# Desenvolvedor;
 
 <a href="https://github.com/SilvaneiMartins">
     <img
