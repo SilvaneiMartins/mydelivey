@@ -56,7 +56,7 @@ Acesse os designs através do seguinte link:
 
 # Features;
 
-    Tela não necessita de autenticação: AuthRoutes
+    * Tela não necessita de autenticação: AuthRoutes
 - [ ] Tela de OnboardingOne;
 - [ ] Tela de OnboardingTwo;
 - [ ] Tela de OnboardingThree;
@@ -64,14 +64,16 @@ Acesse os designs através do seguinte link:
 - [ ] Tela de SignUp;
 - [ ] Tela de ForgotPassword;
 - [ ] Tela de VerificationCode;
-    Tela necessita de autenticação: AppRoutes
+
+    * Tela necessita de autenticação: AppRoutes
 - [ ] Tela OrderDetails;
 - [ ] Tela de ProductDetails;
 - [ ] Tela de Restaurant;
 - [ ] Tela de RestaurantItems;
 - [ ] Tela de Transactions;
 - [ ] Tela de CreateCard;
-    Tela necessita de autenticação: TabRoutes
+
+    * Tela necessita de autenticação: TabRoutes
 - [ ] Tela de Home;
 - [ ] Tela de Wallet;
 - [ ] Tela de Carrinho;
