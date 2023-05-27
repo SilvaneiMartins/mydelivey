@@ -1,5 +1,5 @@
 <h1 align="center">
-   CURSO DELIVERY
+   CURSO LIVE - APLICATIVO DELIVERY
 </h1>
 
 <h3 align="center">
@@ -10,19 +10,19 @@
     🚀  Curso em andamento, aulas disponível no YouTube toda segunda-feira. 🚀
 </h4>
 
-# Meu Canal no YouTube;
+# Meu Canal no YouTube
 
 Para mais conteúdos educativos sobre desenvolvimento de software, verifique o meu canal do YouTube:
 
 [Meu Canal do YouTube](https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg)
 
-# Design do Projeto;
+# Design do Projeto
 Os designs do projeto podem ser encontrados no Figma.
 
 Acesse os designs através do seguinte link:
 [Projeto Figma](https://www.figma.com/file/IewLzvbMgjabRz3WiWg1YH/Food-Delivery-Mobile-Application?type=design&node-id=0%3A1&t=LgkXEo4OghaSC6ZF-1)
 
-# Descrição sobre o Projeto;
+# Descrição sobre o Projeto
 Seja bem-vindo(a) ao nosso curso completo sobre como desenvolver um aplicativo de delivery usando React Native, TypeScript e React Navigation!
 
 Neste curso prático, vamos te guiar passo a passo através do processo de construção de um aplicativo de delivery do zero, utilizando algumas das tecnologias mais requisitadas do mercado: React Native, TypeScript e React Navigation, além de várias outras ferramentas.
@@ -54,7 +54,7 @@ Pronto para começar sua jornada de desenvolvimento móvel e criar um incrível 
 
 Lembre-se de se inscrever em nosso canal e ativar as notificações para não perder nenhuma aula. Vamos lá!
 
-# Tarefas do curso;
+# Tarefas do curso
 
 * Tela necessita de autenticação: AuthRoutes
 - [ ] Tela de OnboardingOne;
@@ -79,7 +79,7 @@ Lembre-se de se inscrever em nosso canal e ativar as notificações para não pe
 - [ ] Tela de Carrinho;
 - [ ] Tela de Settings;
 
-# Instrução para rodar o projeto na maquina local;
+# Instrução para rodar o projeto na maquina local
 
 Para realizar o clone o projeto em sua máquina, e necessário que tenha as seguintes ferramentas instalado em sua máquina `yarn` ou `npm`, `node js`, `expo`. para instalar as depenicas você tem que rodar o comando `yarn` e em seguida `yarn android` caso seja ANDROID para executar a aplicação ou `yarn ios` caso seja emulador IOS.
 
@@ -102,11 +102,11 @@ $ expo start # Caso tenha o expo instalado globalmente em sua máquina
 ou
 npx expo start # Caso não tenha o expo instalado em sua máquina
 ```
-# Licença;
+# Licença
 
 Este projeto está sob a licença MIT. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/mydelivey/blob/master/LICENSE) para maiores informações.
 
-# Desenvolvedor;
+# Desenvolvedor
 
 <a href="https://github.com/SilvaneiMartins">
     <img
