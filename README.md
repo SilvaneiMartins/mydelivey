@@ -57,7 +57,7 @@ Acesse os designs através do seguinte link:
 
 # Features
 
-  Tela não necessita de autenticação: AuthRoutes
+    Tela não necessita de autenticação: AuthRoutes
 - [ ] Tela de OnboardingOne;
 - [ ] Tela de OnboardingTwo;
 - [ ] Tela de OnboardingThree;
