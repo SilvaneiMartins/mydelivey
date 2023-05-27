@@ -64,7 +64,6 @@ Acesse os designs através do seguinte link:
 - [ ] Tela de SignUp;
 - [ ] Tela de ForgotPassword;
 - [ ] Tela de VerificationCode;
-
     Tela necessita de autenticação: AppRoutes
 - [ ] Tela OrderDetails;
 - [ ] Tela de ProductDetails;
@@ -72,7 +71,6 @@ Acesse os designs através do seguinte link:
 - [ ] Tela de RestaurantItems;
 - [ ] Tela de Transactions;
 - [ ] Tela de CreateCard;
-
     Tela necessita de autenticação: TabRoutes
 - [ ] Tela de Home;
 - [ ] Tela de Wallet;
