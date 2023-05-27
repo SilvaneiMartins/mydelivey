@@ -56,7 +56,6 @@ Acesse os designs através do seguinte link:
 [Projeto Figma](https://www.figma.com/file/IewLzvbMgjabRz3WiWg1YH/Food-Delivery-Mobile-Application?type=design&node-id=0%3A1&t=LgkXEo4OghaSC6ZF-1)
 
 # Features
-
     Tela não necessita de autenticação: AuthRoutes
 - [ ] Tela de OnboardingOne;
 - [ ] Tela de OnboardingTwo;
