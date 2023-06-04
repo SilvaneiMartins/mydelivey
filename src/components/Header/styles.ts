@@ -7,6 +7,11 @@ export const styles = StyleSheet.create({
       alignItems: "center",
       flexDirection: "row",
     },
+    content: {
+        marginTop: 20,
+        alignItems: "center",
+        flexDirection: "row",
+    },
     images: {
       width: 50,
       height: 50,
